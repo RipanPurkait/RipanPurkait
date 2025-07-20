@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]! 🤖
+# 👋 Hi, I'm Ripan Purkait! 🤖
 
 Welcome to my GitHub profile! I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems.
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about building i
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ripan-purkait-ai/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_PORTFOLIO_URL/)
 
