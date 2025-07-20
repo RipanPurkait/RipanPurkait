@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about building i
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RipanPurkait&show_icons=true&hide_title=true&theme=radical)
 
 ## 🔗 Connect with Me
 
